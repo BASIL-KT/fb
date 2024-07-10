@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+.header{
+    background-color:  #3b5998;
+    width: 100%;
+    height: 100px;
+
+}
+
+.logo{
+    color: white;
+    font-size: 28px;
+    position: relative;
+    left: 162px;
+    top: 37px;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+.input{
+    position: absolute;
+    right: 345px;
+    top: 33px;
+    color: white;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 16px;
+}
+
+
+.login{
+    color: white;
+    background-color: blue;
+    border-color: black;
+    position: absolute;
+    right: 293px;
+    top: 54px;
+}
+.left{
+    width: 50%;
+    position: relative;
+    top: 47px;
+    left: 143px;
+}
+.right{
+    position: relative;
+    bottom: 253px;
+    left: 779px;
+    font-size: 20px;
+}
+.right2{
+    position: relative;
+    bottom: 253px;
+    left:779px ;
+    font-weight: normal;
+    font-size: 25px
+}
+
+.image{
+    width: 567px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.firstname{
+    height: 27px;
+    width: 212px;
+    border-radius: 1px;
+    position: relative;
+    bottom: 248px;
+    left: 779px;
+}
+
+.surname{
+    height: 27px;
+    width: 197px;
+    border-radius: 1px;
+    position: relative;
+    bottom: 248px;
+    left: 784px; 
+}
+.mob{
+position: relative;
+bottom: 207px;
+left: 355px;
+ height: 27px;
+width: 421px;
+border-radius: 1px;;
+
+}
+
+.pas{
+    position: relative;
+    left: -73px;
+    bottom: 161px;
+    height: 27px;
+    width: 421px;
+    border-radius: 1px;
+}
+
+.birthday{
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: relative;
+    bottom: 144px;
+    left: 776px;
+}
+.dob{
+    position: relative;
+    bottom: 133px;
+    left: 778px;
+
+}
+.month{
+    height: 28px;
+    border-radius: 1px;
+    width: 50px;
+}
+.date{
+    height: 28px;
+    border-radius: 1px;
+    width: 50px;
+}
+.year{
+    height: 28px;
+    border-radius: 1px;
+    width: 50px;
+}
+.gender{
+    font-weight: bold;
+    font-size: 17px;
+    color: grey;
+    position: relative;
+    bottom: 126px;
+    left: 776px;
+}
+.genderfont1{
+    position: relative;
+    bottom: 130px;
+    left: 891px;
+    font-size: 18px;
+}
+.genderfont{
+    position: relative;
+    bottom: 151px;
+    left: 793px;
+    font-size: 18px;
+}
+.genderfont2{
+    position: relative;
+    bottom: 170px;
+    left: 983px;
+    font-size: 18px;
+}
+.genderradio{
+    position: relative;
+    bottom: 108px;
+    left: 775px;
+}
+.genderradio1{
+    position: relative;
+    bottom: 108px;
+    left: 858px;
+}
+.genderradio2{
+    position: relative;
+    bottom: 108px;
+    left: 933px; 
+}
+.instruction{
+    position: relative;
+    bottom: 149px;
+    left: 769px;
+}
+
+.signup{
+    position: relative;
+    bottom: 130px;
+    left: 771px;
+    height: 36px;
+    width: 188px;
+    background-color: green;
+    border-radius: 2px;
+    color: white;
+    font-size: 20px;
+}
